@@ -15,5 +15,5 @@ Portif√≥lio para documentar o processo de aprendizado da disciplina de Programa√
   <li>JavaScript</li>
   </ul>
  
- Link paraacesso ao projeto:
-<a herf="https://script.google.com/macros/s/AKfycbwMpfIquhDiftkr6I9g75HMNyducZ-xM6U3PAmic8GjCrXJCI290nZghQAQMoV6Ydao3Q/exec">Lista De Compras</a>
+ Link para acesso ao projeto:
+<a href="https://script.google.com/macros/s/AKfycbwMpfIquhDiftkr6I9g75HMNyducZ-xM6U3PAmic8GjCrXJCI290nZghQAQMoV6Ydao3Q/exec">Lista De Compras</a>
