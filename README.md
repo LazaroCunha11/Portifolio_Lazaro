@@ -51,4 +51,4 @@ Tecnologia Utilizadas:
   </ul>
   
  Link para acesso ao projeto:
- <a href="https://script.google.com/macros/s/AKfycbwyss53MAiAeN2nCeUUSnNk_K-3qrpAOVJBgQsf7lOW1QOGbS2xN0Bn1fkdmU8HUXX2/exec">Calcular Media</a>
+ <a href="https://script.google.com/macros/s/AKfycbwyss53MAiAeN2nCeUUSnNk_K-3qrpAOVJBgQsf7lOW1QOGbS2xN0Bn1fkdmU8HUXX2/exec">Login</a>
