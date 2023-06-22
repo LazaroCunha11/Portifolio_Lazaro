@@ -69,3 +69,20 @@ Tecnologia Utilizadas:
   
  Link para acesso ao projeto:
  <a href="https://script.google.com/macros/s/AKfycbzcQPQTnWK-ZdRmtrOVWhUXUDBWHnbXEKa1Hu6z60VURBLjByLkVwNMKTMy7-rOWsQ/exec">Formulário</a>
+ 
+h1>Projeto: Página para fazer Um cálculo do combustivel</h1>
+
+Arquivo (s):
+<ul>
+  <li>Cálculo</li>
+</ul>
+
+Descrição: Página Web para fazer um calculo.
+
+Tecnologia Utilizadas:
+<ul>
+  <li>JavaScript</li>
+  </ul>
+  
+ Link para acesso ao projeto:
+ <a href="https://script.google.com/macros/s/AKfycbxjMhUe3pdkLp1s4HAJjit33Ta6ndaYmf7z0nc6ZKZuZP4_mN0ihWILgC340ahGZGUl/exec">cálculo</a>
