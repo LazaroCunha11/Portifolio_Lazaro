@@ -74,7 +74,7 @@ Tecnologia Utilizadas:
 
 Arquivo (s):
 <ul>
-  <li>Cálculo</li>
+  <li>Calcular</li>
 </ul>
 
 Descrição: Página Web para fazer um calculo.
