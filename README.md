@@ -16,7 +16,7 @@ Portifólio para documentar o processo de aprendizado da disciplina de Programa�
   </ul>
  
  Link para acesso ao projeto:
-<a href="https://script.google.com/macros/s/AKfycbwHNxCGaMg-NkwBkmo_maANThn84ABXWwdHM6fTgJYQsDylqNavRhKFnTiGBKXTEvHwOA/exec">Lista De Compras</a>
+<a href="https://script.google.com/macros/s/AKfycbyggeF-4UAetX9xAS4cvtLaBVQb7D0WnXSVOVCW1fys70A9_n4nc981wI5R_TDIdX-Gqg/exec">Lista De Compras</a>
 
 <h1>Projeto: Página para calcular media</h1>
 
