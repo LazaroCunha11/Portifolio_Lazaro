@@ -1,4 +1,4 @@
-# Portifolio_Lázaro
+# Portifólio_Lázaro
 Portifólio para documentar o processo de aprendizado da disciplina de Programação Web.
   
   <h1>Projeto: Página para lista de compras</h1>
