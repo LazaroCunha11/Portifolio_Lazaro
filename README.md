@@ -86,3 +86,18 @@ Tecnologia Utilizadas:
   
  Link para acesso ao projeto:
  <a href="https://script.google.com/macros/s/AKfycbxjMhUe3pdkLp1s4HAJjit33Ta6ndaYmf7z0nc6ZKZuZP4_mN0ihWILgC340ahGZGUl/exec">cálculo</a>
+
+ Arquivo (s):
+<ul>
+  <li>Planilha Do Livro</li>
+</ul>
+
+Descrição: Página Web para compartilhas os dados e nomes do livro para uma planilha.
+
+Tecnologia Utilizadas:
+<ul>
+  <li>JavaScript</li>
+  </ul>
+  
+ Link para acesso ao projeto:
+ <a href="https://script.google.com/macros/s/AKfycbxLGdEJx6kYCuwuPOGaQs05I7R8dSNvJPIqiuTHn98YndyokoOsjUl6g8W7jT16rIfT/exec">Planilha</a>
