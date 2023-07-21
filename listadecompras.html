@@ -1,3 +1,10 @@
+function doGet() {
+  return HtmlService.createTemplateFromFile('Listadecompras').evaluate();
+}
+function incluir(nomeArquivo) {
+  return HtmlService.createHtmlOutputFromFile(nomeArquivo).getContent();
+}
+
 <!DOCTYPE html>
 <html>
 <head>
